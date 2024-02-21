@@ -1,0 +1,34 @@
+#tabeladeroupas {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    background-color: #fcfaad;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.table th,
+.table td {
+    padding: 8px;
+    text-align: justify;
+    border-bottom: 1px solid #ddd;
+}
+
+.produto {
+    background-color: #7c7c75;
+    color: white;
+}
+
+.tamanho {
+    background-color: #9daa5d;
+    color: white;
+}
+
+.valor {
+    background-color: #d5ec4e;
+    color: white;
+}
